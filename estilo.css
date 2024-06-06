@@ -307,15 +307,3 @@ a.botao:hover {
     background-color: white;
     width: 50%;
 }
-
-
-@media screen and (max-width: 1200px){
-    .corpo {
-        display: block;
-        background-image: none;
-    }
-    .fixo{
-        font-size: 5px;
-        
-    }
-}
